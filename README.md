@@ -9,3 +9,7 @@ Basic tutorials on super-minified versions of some generative models, for instru
 4. Consistency models
 5. Flow matching
 6. Distillation methods
+
+## TODO
+
+- [ ] Move common modules (MLPs, timestep embeddings...) to a utils file
