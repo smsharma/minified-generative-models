@@ -8,3 +8,4 @@ Basic tutorials on super-minified versions of some generative models, for instru
 3. Continuous normalizing flows
 4. Consistency models
 5. Flow matching
+6. Distillation methods
