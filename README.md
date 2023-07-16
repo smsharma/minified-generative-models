@@ -11,6 +11,8 @@ Basic tutorials on super-minified versions of some generative models, for instru
 6. Flow matching
 7. Distillation methods
 
+![assets/midwit.pngs](assets/midwit.png)
+
 ## TODO
 
 - [ ] Move common modules (MLPs, timestep embeddings...) to a utils file
