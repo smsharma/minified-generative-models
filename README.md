@@ -24,7 +24,7 @@ pip install flax optax diffrax tensorflow_probability scikit-learn tqdm matplotl
 5. [Consistency models](04_consistency_models.ipynb) (WiP annotations): Consistency models from [Song et al 2023](https://arxiv.org/abs/2303.01469).
 6. [Flow matching](05_flow_matching.ipynb) (WiP annotations): From [Lipman et al 2022](https://arxiv.org/abs/2210.02747); see also  [Albergo et al 2023](https://arxiv.org/abs/2303.08797).
 7. [Diffusion distillation](06_diffusion_distillation.ipynb) (WiP): Progressive ([Salimans et al 2022](https://arxiv.org/abs/2202.00512)) and consistency ([Song et al 2023](https://arxiv.org/abs/2303.01469)) distillation.
-8. [Discrete Walk-Jump Sampling](07_discrete_walk_jump_sampling.ipynb) (WiP): From [Frey et al 2023](https://arxiv.org/abs/2306.12360).
+8. [Discrete walk-jump sampling](07_discrete_walk_jump_sampling.ipynb) (WiP): From [Frey et al 2023](https://arxiv.org/abs/2306.12360).
 
 ## Inspiration
 
