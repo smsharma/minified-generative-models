@@ -10,7 +10,7 @@ First, install JAX following these [instructions](https://jax.readthedocs.io/en/
 ```bash
 pip install "jax[cpu]"
 ```
-In a virtual environment:
+Additional libraries:
 ```bash
 pip install flax optax diffrax tensorflow_probability scikit-learn tqdm matplotlib
 ```
